@@ -8,4 +8,8 @@ This is especially Important in 2 scenarios :
 - In python3, we can achieve this feature by using `venv` tool is installed as part of the standard library. 
 
 ## Getting Ready
-- To create new virtual environment, do the following
+- To create new virtual environment, do the following  
+1. Go the main directory where project is created.
+`$ cd my-project`  
+2. Type `$ python3 -m venv .venv`, this will create subdirectory called `.venv` that contains the virtual environment.  
+3. Before Activating the 

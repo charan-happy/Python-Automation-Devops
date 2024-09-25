@@ -1,0 +1,8 @@
+*.ps1
+*.csh
+*.fish
+pip*
+python*
+*.cfg
+activate
+lib64
