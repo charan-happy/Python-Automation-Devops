@@ -37,3 +37,6 @@
 19. Manipulating Images
 
 20. Controlling the Keyboard and Mouse with GUI Automation.
+
+
+https://automatetheboringstuff.com/2e/chapter0/

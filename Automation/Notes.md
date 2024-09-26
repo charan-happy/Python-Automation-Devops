@@ -1,3 +1,5 @@
+https://www.google.co.in/books/edition/Python_Automation_Cookbook/84LoDwAAQBAJ?hl=en&gbpv=1
+
 # Activating Virtual Environment
 
 - When working with python, it is good practice to create an isolated environment. This helps to detach from the os interpreter , environment & properly define the dependencies that will be used. Remember `explicit is always better than implicit`
